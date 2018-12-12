@@ -7,7 +7,7 @@ public class JenkinsBranch {
 		
 		for(int i=1;i<10;i++)
 		{
-			System.out.println("this is for testing jenkins branch ");
+			System.out.println("this is for testing jenkins branch test");
 		}
 
 	}
